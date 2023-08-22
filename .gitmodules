@@ -1,0 +1,7 @@
+[submodule "go-google-auth"]
+    path = google-auth
+    url = https://github.com/ChaiyapatOam/go-google-oauth
+
+[submodule "go-simple-clean-arch"]
+    path = simple-clean
+    url = https://github.com/ChaiyapatOam/go-sample-clean-arch
